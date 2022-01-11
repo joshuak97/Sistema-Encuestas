@@ -14,7 +14,9 @@ export class TablesComponent implements OnInit {
     public tableData1: TableData;
     public tableData2: TableData;
 
-  constructor() { }
+  constructor() { 
+    // vacio.
+  }
 
   ngOnInit() {
       this.tableData1 = {

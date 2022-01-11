@@ -77,3 +77,7 @@
 .table-upgrade td:nth-child(3){
     text-align: center;
 }
+
+.mr{
+    margin-right: 5px !important;
+}
